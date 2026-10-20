@@ -22,6 +22,11 @@ file = "mods/better-with-aether-1.1.1.jar"
 hash = "5b4467f89c6b77bed0e97bed62ca9d9254e809b01df3b9da891f896323a485bf"
 
 [[files]]
+file = "mods/better-with-hands.pw.toml"
+hash = "b0b10491cabfb43b320376f16da1a7eec3f0af2c35118a481ab4de3999d5aa8a"
+metafile = true
+
+[[files]]
 file = "mods/better_with_bags-1.0.4+8.0.1.jar"
 hash = "e388fcc4eddbc7119a51ed9b4b31d39864ce6b05b311e52b0bfcff9471343d0f"
 

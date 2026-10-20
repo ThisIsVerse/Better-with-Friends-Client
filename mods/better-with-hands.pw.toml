@@ -1,0 +1,8 @@
+name = "Better with Hands"
+filename = "better_with_hands-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/ThisIsVerse/Better-with-Friends-Client/refs/heads/master/mods/better_with_hands-1.0.3.jar"
+hash-format = "sha256"
+hash = "c0746ffadbeff09513429d42e46b5d2043f901f28e2633b07d2cb081ae0a8a95"
