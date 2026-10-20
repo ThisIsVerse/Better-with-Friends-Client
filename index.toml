@@ -35,6 +35,10 @@ file = "mods/better_with_hands-1.0.3.jar"
 hash = "c0746ffadbeff09513429d42e46b5d2043f901f28e2633b07d2cb081ae0a8a95"
 
 [[files]]
+file = "mods/betterwithocelots-3.0.8+8.0.1.jar"
+hash = "0d224789a1c9d60269482a0e3f943addfa0c96d85f550e07b83c5cb5a77a7ef1"
+
+[[files]]
 file = "mods/btabreeding-1.2.0+8.0.1.jar"
 hash = "e143348aa4153bf5fde4b78fda8113e71949228c48c0f13b53807bbb1abc88f0"
 
