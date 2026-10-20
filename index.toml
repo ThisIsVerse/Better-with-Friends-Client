@@ -81,8 +81,9 @@ file = "mods/flowerpots-1.0.0+8.0.1.jar"
 hash = "95650174faab62953100b063657b8210c2256a455d0ecc1469f0b9d216274cea"
 
 [[files]]
-file = "mods/halplibe-6.2.0+8.0.1.jar"
-hash = "e356322d5ce3fda6631a322347451d5ad85704207870c0937d6193a9bc9f1738"
+file = "mods/halplibe.pw.toml"
+hash = "b698d625d43070e2faa91d6e90d2a387aa88bbb47f2f83f57b6450fee62a709e"
+metafile = true
 
 [[files]]
 file = "mods/pepeethings-1.2.0+8.0.1.jar"
