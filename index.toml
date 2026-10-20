@@ -121,8 +121,8 @@ hash = "b698d625d43070e2faa91d6e90d2a387aa88bbb47f2f83f57b6450fee62a709e"
 metafile = true
 
 [[files]]
-file = "mods/morepainting-0.9.3+7.3_04.jar"
-hash = "b2ecee30277bdafb9f2b2214c9875d6da35ce9610e61b5b7e50d36560370ea66"
+file = "mods/morepainting-1.0.4+8.0.1.jar"
+hash = "d5e6681227f84783c057e841ac165a1249d7b31bb9eb30b546d0fe29febff656"
 
 [[files]]
 file = "mods/pepeethings-1.2.0+8.0.1.jar"
