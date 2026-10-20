@@ -3,6 +3,6 @@ filename = "More-Than-Paintings.zip"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/ThisIsVerse/Better-with-Friends-Client/refs/heads/master/texturepacks/More-Than-Paintings.zip"
+url = "https://github.com/ThisIsVerse/Better-with-Friends-Client/releases/download/v1.0.0/More-Than-Paintings.zip"
 hash-format = "sha256"
 hash = "36926d72c04fa7379bea9393ac349d02ee6cf2cf5b23fc471969232f939d5b92"
