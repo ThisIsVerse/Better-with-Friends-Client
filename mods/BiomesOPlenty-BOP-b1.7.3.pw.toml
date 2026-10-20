@@ -1,0 +1,8 @@
+name = "Biomes O' Plenty Beta 1.7.3 Assets"
+filename = "BOP-b1.7.3.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Glitchfiend/BiomesOPlenty/archive/refs/tags/BOP-b1.7.3.zip"
+hash-format = "sha256"
+hash = ""
