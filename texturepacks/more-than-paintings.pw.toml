@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/ThisIsVerse/Better-with-Friends-Client/refs/heads/master/texturepacks/More-Than-Paintings.zip"
 hash-format = "sha256"
-hash = ""
+hash = "36926d72c04fa7379bea9393ac349d02ee6cf2cf5b23fc471969232f939d5b92"
