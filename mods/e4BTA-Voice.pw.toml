@@ -1,5 +1,5 @@
 name = "e4BTA Voice"
-filename = "e4BTA-Voice-0.1.0-alpha.3+bta-8.0.1.jar "
+filename = "e4BTA-Voice-0.1.0-alpha.3+bta-8.0.1.jar"
 side = "client"
 
 [download]
