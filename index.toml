@@ -128,3 +128,8 @@ hash = "3d35400baa540d00aebe0bb5caf22c1ecd333460508ed01432fabb9a427465c8"
 [[files]]
 file = "texturepacks/More-Than-Paintings.zip"
 hash = "36926d72c04fa7379bea9393ac349d02ee6cf2cf5b23fc471969232f939d5b92"
+
+[[files]]
+file = "texturepacks/more-than-paintings.pw.toml"
+hash = "26514d76e07c8f2e42d59691d72326119e66140776e0cc8196b95f3b7ab1d0d2"
+metafile = true
